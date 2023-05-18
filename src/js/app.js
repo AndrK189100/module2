@@ -4,7 +4,7 @@ import sum from './basic.js';
 
 console.log('worked');
 
-console.log(sum([1, 2]));
+console.log(sum([1, 5]));
 
 const game = new Game();
 
